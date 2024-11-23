@@ -1,2 +1,5 @@
 #Ignore these Files: 
-FetchNoiseMaker.ps1
+# ./File.ps1
+
+#Ignore These Folders: 
+# ./Folder/
